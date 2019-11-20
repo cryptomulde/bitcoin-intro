@@ -27,17 +27,17 @@
 
 | Ich habe einen Drucker | Ich habe keinen Drucker |
 | --- | --- |
-| Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> & Verfolge deine Status indem du die erlediten Schritte abhakst. | Lade diese <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> PDF herunter und bennene Sie mit jeder abgeschlossenen Lesson um. (e.g. bitcoin_intro_Lesson2.pdf`) |
+| Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> & Verfolge deine Status indem du die erlediten Schritte abhakst. | Lade diese <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">PDF</a> herunter und bennene Sie mit jeder abgeschlossenen Lesson um. (e.g. bitcoin_intro_Lesson2.pdf`) |
 
 -----
 
-## Step 1. Get a Wallet
-*Aim: Make and backup a bitcoin wallet*
+## Step 1. Besorgen einer Wallet
+*Ziel: Erstellen und backupen einer Bitcoin Wallet*
 
 1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
-2.	Make a new wallet and write down the 24 words presented to you. These 24 words act as a key to access your bitcoin.
-3.  Make another copy of these words and put them both somewhere hidden/safe in your house.
-4.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
+2.	Erstelle ein neues Wallet und schreibe die präsentierten 24 Wörter ab. Die 24 Wörter sind der Schlüssel zu deinen Bitcoin.
+3.  Erstelle eine weitere Kopie der Wörter und platziere beide an einem sicheren oder verstecktem Ort in deinem Haus.
+4.	Innerhalb der Green Wallet klicke auf "Receive" und kopiere die Adresse auf dem Bildschirm. Dies kann durch klicken auf den QR-Code         erreicht werden.
 
 -----
 
