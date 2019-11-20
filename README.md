@@ -27,7 +27,7 @@
 
 | Ich habe einen Drucker | Ich habe keinen Drucker |
 | --- | --- |
-| Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> & Verfolge deine Status indem du die erlediten Schritte abhakst. | Save <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">Lade diese PDF herunter und bennene Sie mit jeder abgeschlossenen Lesson um. (e.g. bitcoin_intro_Lesson2.pdf`) |
+| Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> & Verfolge deine Status indem du die erlediten Schritte abhakst. | Lade diese PDF herunter und bennene Sie mit jeder abgeschlossenen Lesson um. (e.g. bitcoin_intro_Lesson2.pdf`) <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank"> |
 
 -----
 
