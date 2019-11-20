@@ -8,7 +8,7 @@
 | Step | Erklärung                                      |Done|
 | ---- | -----------                                    |---|
 | 0. | Setup                                            |   |
-| 1. | Besorgen einer Wallet                            |   |
+| 1. | Besorgen eines Wallets                           |   |
 | 2. | Kaufen der ersten Bitcoin                        |   |
 | 3. | Wieso Bitcoin verwenden?                         |   |
 | 4. | Was ist Bitcoin?                                 |   |
@@ -27,26 +27,26 @@
 
 | Ich habe einen Drucker | Ich habe keinen Drucker |
 | --- | --- |
-| Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> & Verfolge deine Status indem du die erlediten Schritte abhakst. | Lade diese <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">PDF</a> herunter und bennene Sie mit jeder abgeschlossenen Lesson um. (e.g. bitcoin_intro_Lesson2.pdf`) |
+| Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">diese PDF</a> & Verfolge deine Status indem du die erlediten Schritte abhakst. | Lade <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">diese PDF</a> herunter und bennene Sie mit jeder abgeschlossenen Lesson um. (e.g. bitcoin_intro_Lesson2.pdf`) |
 
 -----
 
-## Step 1. Besorgen einer Wallet
-*Ziel: Erstellen und backupen einer Bitcoin Wallet*
+## Step 1. Besorgen eines Wallets
+*Ziel: Erstellen und backupen des Bitcoin Wallets*
 
 1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
-2.	Erstelle ein neues Wallet und schreibe die präsentierten 24 Wörter ab. Die 24 Wörter sind der Schlüssel zu deinen Bitcoin.
-3.  Erstelle eine weitere Kopie der Wörter und platziere beide an einem sicheren oder verstecktem Ort in deinem Haus.
-4.	Innerhalb der Green Wallet klicke auf "Receive" und kopiere die Adresse auf dem Bildschirm. Dies kann durch klicken auf den QR-Code         erreicht werden.
+2.	Erstelle ein neues Wallet und schreibe die angezeigten 24 Wörter ab. Die 24 Wörter sind der Schlüssel zu deinen Bitcoin.
+3.  Erstelle eine weitere Kopie der Wörter und platziere beide an einem sicheren/verstecktem Ort in deinem Haus.
+4.	Innerhalb der Green Wallet klicke auf "Receive" und kopiere die Adresse. Dies kann durch klicken auf den QR-Code erreicht werden.
 
 -----
 
-## Step 2. Buy some bitcoin
-*Aim: Get a small amount of bitcoin*
+## Step 2. Kaufen der ersten Bitcoin
+*Ziel: erhalten einer kleinen Menge Bitcoin*
 
-- Only buy a small amount of bitcoin to start (in a later step we will improve your backup redundancy).
-- These recommendations let you buy bitcoin quickly at the cost of reduced privacy.
-- Buying Privately is detailed in a <a href="#step-12-buying=privately" target="_blank">later step.</a>
+- zu Beginn kaufe nur eine kleine Menge (später werden wir deine Backup Redunadanz verbessern)
+- Diese Empfehlung lassen dich schnell und einfach Bitcoin kaufen, auf Kosten deiner Privatsphäre. (reduzierte Privatsphäre)
+- Kaufen von Privat wird detailiert in a <a href="#step-12-buying=privately" target="_blank"> erklärt.</a>
 
 
 ##### USA (1.5% Fee)
