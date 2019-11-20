@@ -2,14 +2,14 @@
 - besser klein starten und stückweise besser werden, als gar nicht erst anfangen
 - Es macht mehr Spaß die Tools zu benutzen, als eine detailierte Erklärung zu lesen
 - Halte immer volle Kontrolle über deine Bitcoin (verwende non-custodial Tools)
-- Bleibe fokussiert und vermeide SCAM's.
+- Bleibe fokussiert und vermeide SCAM's. (bleibe bei Bitcoin, keine Shitcoins)
 
 
 | Step | Erklärung                                      |Done|
 | ---- | -----------                                    |---|
 | 0. | Setup                                            |   |
 | 1. | Besorgen einer Wallet                            |   |
-| 2. | Kaufe ein wenig Bitcoin                          |   |
+| 2. | Kaufen der ersten Bitcoin                        |   |
 | 3. | Wieso Bitcoin verwenden?                         |   |
 | 4. | Was ist Bitcoin?                                 |   |
 | 5. | Weiteres Lernen                                  |   |
@@ -27,7 +27,7 @@
 
 | Ich habe einen Drucker | Ich habe keinen Drucker |
 | --- | --- |
-| Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> & Verfolge deine Status indem du die erlediten Schritte abhakst. | Lade diese PDF herunter und bennene Sie mit jeder abgeschlossenen Lesson um. (e.g. bitcoin_intro_Lesson2.pdf`) <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank"> |
+| Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> & Verfolge deine Status indem du die erlediten Schritte abhakst. | Lade diese <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> PDF herunter und bennene Sie mit jeder abgeschlossenen Lesson um. (e.g. bitcoin_intro_Lesson2.pdf`) |
 
 -----
 
