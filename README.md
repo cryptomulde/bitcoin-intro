@@ -45,8 +45,8 @@
 *Ziel: erhalten einer kleinen Menge Bitcoin*
 
 - zu Beginn kaufe nur eine kleine Menge (später werden wir deine Backup Redunadanz verbessern)
-- Diese Empfehlung lassen dich schnell und einfach Bitcoin kaufen, auf Kosten deiner Privatsphäre. (reduzierte Privatsphäre)
-- Kaufen von Privat wird detailiert in a <a href="#step-12-buying=privately" target="_blank"> erklärt.</a>
+- Diese Empfehlung lassen dich schnell und einfach Bitcoin kaufen. Diese Lösungen führen zu reduzierter Privatsphäre.
+- Kaufen von Privat wird detailiert in a <a href="#step-12-buying=privately" target="_blank"> späterem Schritt</a> erklärt.
 
 
 ##### USA (1.5% Fee)
