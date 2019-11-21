@@ -151,7 +151,7 @@ Auch wenn die Option die in Schritt 2 erklärt wurde einfach ist um die ersten B
 
 ##### Übersichtstabelle
 
-|                       | Private Methododen    | Halb-Private Methoden | Nicht-Private Methoden|
+|                       | Private Methoden      | Halb-Private Methoden | Nicht-Private Methoden|
 | ---                   | ---                   | ---                   | ---                   |
 | Zahlungsart           | Cash                  | Bank Transfer         | Debit Card            |
 | Interface             | persönlich            | Website               | Website               |
