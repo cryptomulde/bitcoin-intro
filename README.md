@@ -166,8 +166,3 @@ Auch wenn die Option die in Schritt 2 erklärt wurde einfach ist um die ersten B
 2. Suche nach lokalen Verkäufern (Wählen den "BUY BTC" Knopf auf der Oberseite)
 3. Kaufen von einem lokalen Verkäufer (Wähle "Create new offer to buy BTC with" ... )
 4. Ziehe Bitcoin auf die Bitcoin Adresse von Schritt 1 ab
-
-##### Vouchers
-0.  Prüfe ob es in deiner nähe Händler gibt, welche Vouchers verkaufen <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> or <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
-1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
-2.  When prompted, paste your first bitcoin address from Step 1.
