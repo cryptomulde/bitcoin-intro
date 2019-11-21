@@ -95,7 +95,7 @@ Gratulation, du besitzt offiziell deine ersten Bitcoin. Solange deine 24 Wörter
 *Ziel: Verbessere dein Backup, sodass du bereit bist falls der Preis hochgeht oder du dich entscheidest mehr zu kaufen.*
 
 1. Lese <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
-2. Suche dir ein Setup aus (e.g. Two full backups, one on paper one on stamped metal)
+2. Suche dir ein Setup aus (z.B. zwei volle Backups, eins auf Papier und eins in Metall gestanzt)
 3. Setze das Setup um
 
 -----
