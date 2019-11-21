@@ -145,7 +145,7 @@ Gratulation, du besitzt offiziell deine ersten Bitcoin. Solange deine 24 Wörter
 
 -----
 
-## Step 12. Von privat Bitcoin kaufen Privately
+## Step 12. Von privat Bitcoin kaufen
 
 Auch wenn die Option die in Schritt 2 erklärt wurde einfach ist um die ersten Bitcoin zu kaufen, sollte man bei weiteren Käufen Optionen mit stärkerem Fokus auf Privatsphäre betrachten.
 
