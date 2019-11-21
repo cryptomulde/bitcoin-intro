@@ -13,7 +13,7 @@
 | 3. | Wieso Bitcoin verwenden?                         |   |
 | 4. | Was ist Bitcoin?                                 |   |
 | 5. | Weiteres Lernen                                  |   |
-| 6. | Backup                                           |   |
+| 6. | Besseres Backup                                  |   |
 | 7. | Betreiben einer Node                             |   |
 | 8. | Der Community beitreten                          |   |
 | 9. | Bitcoin Privatsphäre                             |   |
@@ -46,78 +46,62 @@
 
 - zu Beginn kaufe nur eine kleine Menge (später werden wir deine Backup Redunadanz verbessern)
 - Diese Empfehlung lassen dich schnell und einfach Bitcoin kaufen. Diese Lösungen führen zu reduzierter Privatsphäre.
-- Kaufen von Privat wird detailiert in a <a href="#step-12-buying=privately" target="_blank"> späterem Schritt</a> erklärt.
+- Kaufen von "Privat" wird detailiert in einem <a href="#step-12-buying=privately" target="_blank"> späterem Schritt</a> erklärt.
 
-
-##### USA (1.5% Fee)
-0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
-1.	Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
-2.	Make an account & connect a Debit Card.
-3.	Buy 25 USD of BTC.
-4.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
-5.	Wait for the funds to appear in green wallet (< 24 hrs).
 
 ##### EU (Bittr - 1.5% Fee)
-0.  Check bittr on <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>
-1.	Go to <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
-2.	Enter your email & phone number
-3.	Paste your first bitcoin address from Step 1
-4.  Copy the reference and send 25 EUR from your personal bank account to the bank details provided via SEPA
-5.	Wait for the funds to appear in green wallet (< 24 hrs).
+0.  Schau dir Bittr auf Trustpilot <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a> an.
+1.	Gehe zu <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
+2.	Gebe deine Mail Adresse und Handynummer an.
+3.	Füge deine erste Bitcoin Adresse von Step 1 ein.
+4.  Kopiere die Referenzummer und sende 25 EUR von deinem Bankkonto zu den bereitgestellten Konto-Daten via SEPA Überweisung.
+5.	Warte bis die Coins in deiner GreenWallet auftauchen (< 24 hrs).
 
-##### CAN (BullBitcoin - 0.25% Fee)
-0.  Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
-1.  Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
-2.  Deposit 25 CAD & Buy 25 CAD worth of bitcoin
-3.	Paste your first bitcoin address from Step 1
-4.	Wait for the funds to appear in green wallet (>24 hrs).  
-
-
-Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without these words (known as your seed words or your private key) nobody can access your bitcoin wallet.
+Gratulation, du besitzt offiziell deine ersten Bitcoin. Solange deine 24 Wörter sicher sind kann niemand das Geld von der Wallet klauen, welche du generiert hast. Ohne diese Wörter (auch betitelt als Seed oder private key) hat niemand Zugang zu deiner Bitcoin Wallet. (Bei Verlust der Wörter hast du auch keinen Zugriff mehr.)
 
 -----
 
-## Step 3. Why use bitcoin?
-*Aim: Learn why bitcoin is useful*
+## Step 3. Wieso Bitcoin verwenden? (nur auf Englisch)
+*Ziel: Lernen Wieso Bitcoin nützlich ist*
 
-1. Read '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
-2. Watch '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Why Bitcoin Matters</a>' by [Aleks Svetski](https://twitter.com/AleksSvetski)
-
------
-
-## Step 4. What is bitcoin?
-*Aim: Learn what bitcoin is*
-
-1. Read '<a href="https://bitcoin-only.com/#bitcoin" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
-2. Watch '<a href="https://www.rt.com/shows/to-the-moon/457141-bitcoin-digital-currencies-revolution/video/5cbc2abbdda4c844198b4657/" target="_blank">Bitcoin - The Genesis</a>' by [RT](https://twitter.com/RT_com)
+1. Lese den Artikel '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
+2. Sieh dir das Video '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Why Bitcoin Matters</a>' by [Aleks Svetski](https://twitter.com/AleksSvetski)
 
 -----
 
-## Step 5. Further Learning
-*Aim: Further develop your understanding of bitcoin*
+## Step 4. Was ist Bitcoin?
+*Ziel: Lerne was Bitcoin ist*
 
-###### Listen
+1. Lese '<a href="https://bitcoin-only.com/#bitcoin" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
+2. Sieh dir an '<a href="https://www.rt.com/shows/to-the-moon/457141-bitcoin-digital-currencies-revolution/video/5cbc2abbdda4c844198b4657/" target="_blank">Bitcoin - The Genesis</a>' by [RT](https://twitter.com/RT_com)
+
+-----
+
+## Step 5. Weiteres Lernen
+*Ziel: Vertiefe dein Verständnis von Bitcoin*
+
+###### Höre dir an
 1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">The Bitcoin Standard</a>
 2. <a href="https://youtu.be/OrMHQhDKhrU" target="_blank">Intro to Bitcoin Austrian thought</a>
 
-###### Read
+###### Lese
 1. <a href="https://www.amazon.com/dp/1641990503" target="_blank">The Little Bitcoin Book</a>
 2. <a href="https://www.amazon.com/Bitcoin-Sovereignty-mathematics-Knut-Svanholm/dp/1090109911" target="_blank">Sovereignty through mathematics</a>
 3. <a href="https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861" target="_blank">The Bitcoin Standard</a> (<a href="https://www.podbean.com/eu/pb-48576-a563c0" target="_blank">Listen</a> to the prologue)
 
 -----
 
-## Step 6. Better Backup
-*Aim: Improve your backup so you are ready in-case bitcoin goes up in price or you decide to buy more.*
+## Step 6. Besseres Backup
+*Ziel: Verbessere dein Backup, sodass du bereit bist falls der Preis hochgeht oder du dich entscheidest mehr zu kaufen.*
 
-1. Read the <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
-2. Pick a setup (e.g. Two full backups, one on paper one on stamped metal)
-3. Implement your selected setup
+1. Lese the <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
+2. Suche dir ein Setup aus (e.g. Two full backups, one on paper one on stamped metal)
+3. Setze das Setup um
 
 -----
 
-## Step 7. Running a Node
-*Aim: Understand how and why bitcoiners run their own full nodes.*
+## Step 7. Betreiben einer Node
+*Ziel: Verstehe wie und warum Bitcoiner eine eigene Full Node betreiben.*
 
 1. <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a>
 2. Video Tutorials: <a href="https://www.youtube.com/watch?v=0Zq_JdExHkE&list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h" target="_blank">Install Linux</a> & <a href="https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk" target="_blank">Install Core</a>
