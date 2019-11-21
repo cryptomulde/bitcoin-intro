@@ -133,7 +133,7 @@ Gratulation, du besitzt offiziell deine ersten Bitcoin. Solange deine 24 Wörter
 2. Sende ein wenig Bitcoin ans Wallet (eine kleine Menge)
 3. Sende Bitcoin über Lightning
 4. Sieh dir an <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
-5. Lese <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> verglicehn zu TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>.
+5. Lese <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> verglichen zu TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>.
 
 -----
 
