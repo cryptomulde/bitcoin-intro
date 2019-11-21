@@ -50,7 +50,7 @@
 
 
 ##### EU (Bittr - 1.5% Fee)
-0.  Schau dir Bittr auf Trustpilot <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a> an.
+0.  Schau dir Bittr auf <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a> an.
 1.	Gehe zu <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
 2.	Gebe deine Mail Adresse und Handynummer an.
 3.	Füge deine erste Bitcoin Adresse von Step 1 ein.
