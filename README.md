@@ -19,7 +19,7 @@
 | 9. | Bitcoin Privatsphäre                             |   |
 | 10. | Bitcoin MicroPayments (Lightning)               |   |
 | 11. | Technische Details                              |   |
-| 12. | privat Bitcoin kaufen                           |   |
+| 12. | Von privat Bitcoin kaufen                       |   |
 
 -----
 
@@ -44,7 +44,7 @@
 ## Step 2. Kaufen der ersten Bitcoin
 *Ziel: erhalten einer kleinen Menge Bitcoin*
 
-- zu Beginn kaufe nur eine kleine Menge (später werden wir deine Backup Redunadanz verbessern)
+- zu Beginn kaufe nur eine kleine Menge (später werden wir deine Backup Redundanz verbessern)
 - Diese Empfehlung lassen dich schnell und einfach Bitcoin kaufen. Diese Lösungen führen zu reduzierter Privatsphäre.
 - Kaufen von "Privat" wird detailiert in einem <a href="#step-12-buying=privately" target="_blank"> späterem Schritt</a> erklärt.
 
@@ -55,9 +55,9 @@
 2.	Gebe deine Mail Adresse und Handynummer an.
 3.	Füge deine erste Bitcoin Adresse von Step 1 ein.
 4.  Kopiere die Referenzummer und sende 25 EUR von deinem Bankkonto zu den bereitgestellten Konto-Daten via SEPA Überweisung.
-5.	Warte bis die Coins in deiner GreenWallet auftauchen (< 24 hrs).
+5.	Warte bis die Coins in deiner GreenWallet auftauchen (< 24 h).
 
-Gratulation, du besitzt offiziell deine ersten Bitcoin. Solange deine 24 Wörter sicher sind kann niemand das Geld von der Wallet klauen, welche du generiert hast. Ohne diese Wörter (auch betitelt als Seed oder private key) hat niemand Zugang zu deiner Bitcoin Wallet. (Bei Verlust der Wörter hast du auch keinen Zugriff mehr.)
+Gratulation, du besitzt offiziell deine ersten Bitcoin. Solange deine 24 Wörter sicher sind, kann niemand das Geld von der Wallet klauen, welche du generiert hast. Ohne diese Wörter (auch betitelt als Seed oder private key) hat niemand Zugang zu deiner Bitcoin Wallet. (Bei Verlust der Wörter hast du auch keinen Zugriff mehr.)
 
 -----
 
@@ -94,7 +94,7 @@ Gratulation, du besitzt offiziell deine ersten Bitcoin. Solange deine 24 Wörter
 ## Step 6. Besseres Backup
 *Ziel: Verbessere dein Backup, sodass du bereit bist falls der Preis hochgeht oder du dich entscheidest mehr zu kaufen.*
 
-1. Lese the <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
+1. Lese <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
 2. Suche dir ein Setup aus (e.g. Two full backups, one on paper one on stamped metal)
 3. Setze das Setup um
 
@@ -110,64 +110,64 @@ Gratulation, du besitzt offiziell deine ersten Bitcoin. Solange deine 24 Wörter
 -----
 
 ## Step 8. Joining In
-*Aim: Discover how to get involved in discussions about bitcoin.*
+*Ziel: Erfahre wie du dich an Bitcoin Diskussionen beteiligen kannst.*
 
-1. Attend a <a href="https://bitcoin-only.com/#meetups" target="_blank">local meetup</a>
-2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Subscribe</a> to bitcoin op-tech
-3. Join Twitter and follow bitcoiners you come across.
+1. Nehme an einem  <a href="https://bitcoin-only.com/#meetups" target="_blank">lokalen Meetup</a> teil
+2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Schreibe dich ein</a> zum Bitcoin OP-Tech Newsletter.
+3. Trete Twitter bei und folge Bitcoinern die du auf dem Weg triffst.
 
 -----
 
-## Step 9. Bitcoin privacy
-*Aim: Understand how and why to use bitcoin in a private way*
+## Step 9. Bitcoin Privatsphäre
+*Ziel: Verstehe wie und warum man Bitcoin mit erhöhter Privatsphäre benutzt*
 
-1. Read how to <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">Hodl Privately</a>
-2. Learn about <a href="https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_FAQ.md" target="_blank">CoinJoin</a>
+1. Lese <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">Hodl Privately</a>
+2. Lerne über <a href="https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_FAQ.md" target="_blank">CoinJoin</a>
 
 -----
 
 ## Step 10. Bitcoin MicroPayments
-*Aim: Understand what the lightning network is and how you can use it.*
+*Ziel: Verstehe was das Lightning Netzwerk ist und wie du es benutzen kannst.*
 
-1. Download a non-custodial bitcoin lightning wallet
-2. Transfer some bitcoin to it (a small amount)
-3. Send bitcoin over lightning
-4. Watch <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
-5. Read <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> as compared to TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>.
-
------
-
-## Step 11. Technical Details
-*Aim: Better understand how bitcoin works & the terminology*
-
-1. Watch <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
-2. Watch <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a>
+1. Downloade eine non-custodial Bitcoin Lightning wallet
+2. Sende ein wenig Bitcoin ans Wallet (eine kleine Menge)
+3. Sende Bitcoin über Lightning
+4. Sieh dir an <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
+5. Lese <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> verglicehn zu TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>.
 
 -----
 
-## Step 12. Buying Privately
+## Step 11. Technische Details
+*Ziel: Besseres Verständnis wie Bitcoin funktioniert und Erlenen der Terminologie*
 
-Though the methods explained in Step 2 are simple and easy for buying your first bitcoin it is worth considering more private options for further buying.
+1. Siehe dir an <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
+2. Siehe dir an <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a>
 
-##### Overview table
+-----
 
-|                       | Private Methods       | Semi-Private Methods  | Non-Private Methods   |
+## Step 12. Von privat Bitcoin kaufen Privately
+
+Auch wenn die Option die in Schritt 2 erklärt wurde einfach ist um die ersten Bitcoin zu kaufen, sollte man bei weiteren Käufen Optionen mit stärkerem Fokus auf Privatsphäre betrachten.
+
+##### Übersichtstabelle
+
+|                       | Private Methododen    | Halb-Private Methoden | Nicht-Private Methoden|
 | ---                   | ---                   | ---                   | ---                   |
-| Method of Payment     | Cash                  | Bank Transfer         | Debit Card            |
-| Interface             | In person             | Website               | Website               |
+| Zahlungsart           | Cash                  | Bank Transfer         | Debit Card            |
+| Interface             | persönlich            | Website               | Website               |
 | Email & Phone         | **Not Required**      | Required              | Required              |
 | Name & Address        | **Not Required**      | **Not Required**      | Required              |
 | Relative Privacy      | **Great**             | Fair                  | Fair                  |
-| Examples              | BISQ / Vouchers | Bittr          | CashApp / Bull Bitcoin |
+| Examples              | BISQ / Vouchers       | Bittr                 | CashApp / Bull Bitcoin|
 
 ##### BISQ
-0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Install BISQ
-1. Set local currency
-2. Look for local sellers (Select BUY BTC button on top ribbon )
-3. Buy from local seller (Select Create new offer to buy BTC with ... )
-4. Withdraw bitcoin to bitcoin address from Step 1.
+0. <a href="https://bisq.network/downloads/Download" target="_blank">Downloade</a> & Installiere BISQ
+1. Wähle deine lokale Währung
+2. Suche nach lokalen Verkäufern (Wählen den "BUY BTC" Knopf auf der Oberseite)
+3. Kaufen von einem lokalen Verkäufer (Wähle "Create new offer to buy BTC with" ... )
+4. Ziehe Bitcoin auf die Bitcoin Adresse von Schritt 1 ab
 
 ##### Vouchers
-0.  Check whether there are any merchants near you who sell vouchers on <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> or <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
+0.  Prüfe ob es in deiner nähe Händler gibt, welche Vouchers verkaufen <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> or <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
 1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
 2.  When prompted, paste your first bitcoin address from Step 1.
