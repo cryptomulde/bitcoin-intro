@@ -1,5 +1,5 @@
 ###### Grundlegende Gedanken
-- besser klein starten und besser werden, als gar nicht erst anfangen
+- klein starten und besser werden, als gar nicht erst anfangen
 - Es macht mehr Spaß die Tools zu benutzen, als detailierte Erklärungen zu lesen
 - Behalte immer volle Kontrolle über deine Bitcoin (verwende non-custodial Tools)
 - Bleibe fokussiert und vermeide SCAM's. (bleibe bei Bitcoin, keine Shitcoins)
