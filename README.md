@@ -42,7 +42,7 @@
 -----
 
 ## Step 2. Kaufen der ersten Bitcoin
-*Ziel: erhalten einer kleinen Menge Bitcoin*
+*Ziel: Erhalten einer kleinen Menge Bitcoin*
 
 - zu Beginn kaufe nur eine kleine Menge (später werden wir deine Backup Redundanz verbessern)
 - Diese Empfehlung lässt dich schnell und einfach Bitcoin kaufen. Diese Lösungen führen zu reduzierter Privatsphäre.
