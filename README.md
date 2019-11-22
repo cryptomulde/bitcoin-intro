@@ -45,7 +45,7 @@
 *Ziel: erhalten einer kleinen Menge Bitcoin*
 
 - zu Beginn kaufe nur eine kleine Menge (später werden wir deine Backup Redundanz verbessern)
-- Diese Empfehlung lassen dich schnell und einfach Bitcoin kaufen. Diese Lösungen führen zu reduzierter Privatsphäre.
+- Diese Empfehlung lässt dich schnell und einfach Bitcoin kaufen. Diese Lösungen führen zu reduzierter Privatsphäre.
 - Kaufen von "Privat" wird detailiert in einem <a href="#step-12-buying=privately" target="_blank"> späterem Schritt</a> erklärt.
 
 
