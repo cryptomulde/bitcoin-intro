@@ -62,7 +62,7 @@ Gratulation, du besitzt offiziell deine ersten Bitcoin. Solange deine 24 Wörter
 -----
 
 ## Step 3. Wieso Bitcoin verwenden? (nur auf Englisch)
-*Ziel: Lernen Wieso Bitcoin nützlich ist*
+*Ziel: Lerne wieso Bitcoin nützlich ist*
 
 1. Lese den Artikel '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
 2. Sieh dir das Video '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Why Bitcoin Matters</a>' by [Aleks Svetski](https://twitter.com/AleksSvetski)
